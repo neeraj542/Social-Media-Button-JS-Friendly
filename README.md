@@ -1,6 +1,6 @@
 # Social Media Button (JS-Friendly)
 
-![Project Image](![image](https://github.com/neeraj542/Social-Media-Button-JS-Friendly/assets/114648043/6965676d-5883-42d7-b410-2b0e20b4a9fb)
+![Project Image]((https://github.com/neeraj542/Social-Media-Button-JS-Friendly/assets/114648043/6965676d-5883-42d7-b410-2b0e20b4a9fb)
 )
 
 Welcome to the Social Media Button (JS-Friendly) project!
